@@ -8,9 +8,14 @@ Nos langues de travail sont : le français, l’anglais et le chinois. Dans le c
 ## Jeu de données
 Comme nous ne sommes pas le propriétaire du jeu de données, nous ne le fournissons pas.
 ## Outils tiers
-* minigrep
-    Filtrage dans des fichiers multilingues.
-    Disponible sur [http://www.tal.univ-paris3.fr/cours/minigrepmultilingue.htm](http://www.tal.univ-paris3.fr/cours/minigrepmultilingue.htm)
-* scws
-    Chinese tokenizer
-    Disponible sur [https://github.com/hightman/scws](https://github.com/hightman/scws)
+**minigrep**
+
+Filtrage dans des fichiers multilingues.
+
+Disponible sur [http://www.tal.univ-paris3.fr/cours/minigrepmultilingue.htm](http://www.tal.univ-paris3.fr/cours/minigrepmultilingue.htm)
+
+**scws**
+
+Chinese tokenizer
+
+Disponible sur [https://github.com/hightman/scws](https://github.com/hightman/scws)
